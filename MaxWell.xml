@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <item>
   <version>1.1.0.1</version>
-  <url>https://github.com/OilDrop/MaxWell/blob/main/WP-08-01-2023-01.zip</url>
-  <changelogx>https://github.com/OilDrop/MaxWell/blob/main/WP-08-01-2023-01-Release-Notes.txt</changelogx>
   <mandatory>true</mandatory>
+  <url>https://github.com/OilDrop/MaxWell/raw/main/WP-08-01-2023-01.zip</url>
+  
+  <urlx>https://github.com/OilDrop/MaxWell/blob/main/WP-08-01-2023-01.zip</urlx>
+  <changelogx>https://github.com/OilDrop/MaxWell/blob/main/WP-08-01-2023-01-Release-Notes.txt</changelogx>
+  
 </item>
